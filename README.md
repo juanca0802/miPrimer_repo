@@ -1,10 +1,8 @@
 # miPrimer_repo
+actualizamos todo, estamos mirando y entendiendo individualmente lo aprendido 
 
-mi primera contribucion local para git hub
-seguimos editando esta configuracion 
-nuevo repositorio 
+conceptos como GIT PULL Y GIT PUSH 
 
+-> pull trae las cosas de la nube  
 
-un commit mas desde git hub 
-
-una actualizacion mas 
+-> push envia las cosas del area local a la nube 
