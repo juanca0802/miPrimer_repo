@@ -12,4 +12,8 @@ estamos logrando las cosas, cada vez mejorando los conceptos ahora
 seguimos editando :)
 
 
+eliminamos todo y usamos los comandos de git reset, nos funciono nuestro ejercicio 
+
+
+
 
